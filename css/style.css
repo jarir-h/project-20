@@ -1,0 +1,75 @@
+
+.manu-section{
+    background-color: #d8ebf8;
+}
+.manu-section .header-logo img{
+    width: 50px;
+    padding-top: 8px;
+}
+.manu-section nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 20px;  
+ }
+.manu-section nav ul li a {
+    text-decoration: none;
+    color: #676767;
+    line-height: 50px;
+    transition: .6s;
+}
+.manu-section nav ul li a:hover{
+    color: #181818;
+}
+.manu-section .input-group input{
+    margin-top: 10px;
+    margin-right: 10px;
+    border: 1px solid #888888;
+} 
+.manu-section .input-group button{
+    margin-top: 10px;
+} 
+
+/*   Inpute Section  */
+
+.inpute-section{}
+.inpute-section .inpute ol{
+    background-color: #d7d7d7;
+    padding: 8px 0;
+    border-radius: 5px;
+    padding-left: 10px;
+    width: 80%;
+}
+.inpute-section .inpute ol li a{
+    text-decoration: none;
+}
+
+/*   Bunner Section   */
+
+
+
+
+/*   Iteam Section  */
+
+.item-section .progress{
+    margin-top: 10px;
+}
+
+
+/*   Button Section  */
+
+
+/*   Top-Footer Section  */
+
+.footer-top .point nav ul{
+    margin-left: 160px;
+}
+
+/*   footer Section  */
+
+.footer{
+    background-color: rgb(7, 185, 234);
+    padding: 8px 0;
+    text-align: center;
+    color: #fff;
+}
+   
